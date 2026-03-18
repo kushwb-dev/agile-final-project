@@ -1,5 +1,5 @@
 ---
-name: New Issue
+name: User Story
 about: Describe some basic info
 title: ''
 labels: ''
