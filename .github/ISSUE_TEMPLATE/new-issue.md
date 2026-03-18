@@ -1,6 +1,6 @@
 ---
 name: New Issue
-about: Describe this issue title here
+about: Describe some basic info
 title: ''
 labels: ''
 assignees: ''
